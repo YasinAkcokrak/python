@@ -1,2 +1,1 @@
-print("Merhaba")
-print("Yasin")
+print("Hello World")
